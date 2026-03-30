@@ -31,6 +31,7 @@ const App = () => {
     const editTodo = [...todo];
     editTodo[idx].text = text;
     setTodo(editTodo);
+    setText("");
   };
 
   // Stats
