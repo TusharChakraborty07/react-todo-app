@@ -74,7 +74,6 @@ const App = () => {
             Add
           </button>
         </div>
-
         {/* Todo List */}
         <div className="bg-gray-800 rounded-lg p-4">
           {todo.length === 0 ? (
