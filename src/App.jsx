@@ -57,7 +57,7 @@ const App = () => {
             <p className="text-xl font-bold text-red-400">{incomplete}</p>
           </div>
         </div>
-
+pnpm 
         {/* Input Section */}
         <div className="flex gap-3 mb-6">
           <input
